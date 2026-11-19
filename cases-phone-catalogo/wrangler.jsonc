@@ -1,8 +1,6 @@
 {
-  // Cases Phone Chivacoa · catálogo para clientes (sitio estático en Cloudflare Workers)
-  "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "casephone-catalogo",
-  "compatibility_date": "2026-11-01",
+  "name": "cases-phone-catalogo",
+  "compatibility_date": "2025-09-01",
   "assets": {
     "directory": "./public"
   }
